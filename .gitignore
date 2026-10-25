@@ -3,3 +3,5 @@ runs/
 site/
 *.pyc
 .venv/
+*.mp4
+*.webm
